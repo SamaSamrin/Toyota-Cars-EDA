@@ -1,5 +1,5 @@
 # Toyota-Cars-EDA
-Data visualization of Toyota Cars with Python, through:
+Data visualization of Toyota Cars through:
 * pie charts
 * bar plots
 * scatter plot
@@ -7,3 +7,8 @@ Data visualization of Toyota Cars with Python, through:
 * pair plot
 * histogram
 * ECDF
+
+Libraries Used:
+* Seaborn
+* Pandas
+* Matplotlib
