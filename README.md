@@ -7,8 +7,11 @@ Data visualization of Toyota Cars through:
 * pair plot
 * histogram
 * ECDF
+* box Plot
+* violin Plot
 
 Libraries Used:
 * Seaborn
 * Pandas
 * Matplotlib
+* NumPy
