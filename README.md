@@ -1,5 +1,5 @@
 # Toyota-Cars-EDA
-Data visualization of Toyota Cars through:
+Data visualization of Toyota Cars dataset through:
 * pie charts
 * bar plots
 * scatter plot
