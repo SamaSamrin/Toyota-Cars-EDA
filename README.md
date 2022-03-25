@@ -7,8 +7,8 @@ Data visualization of Toyota Cars dataset through:
 * pair plot
 * histogram
 * ECDF
-* box Plot
-* violin Plot
+* box plot
+* violin plot
 
 Libraries Used:
 * Seaborn
